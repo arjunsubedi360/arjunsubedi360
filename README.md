@@ -1,81 +1,77 @@
-# 🚀 Project Name
+# 🚀 Arjun Subedi - Full Stack Developer
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/reponame?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/reponame?style=social)
-![GitHub license](https://img.shields.io/github/license/yourusername/reponame)
-![GitHub contributors](https://img.shields.io/github/contributors/yourusername/reponame)
-
-> **A short and compelling project description.**
+![GitHub followers](https://img.shields.io/github/followers/arjunsubedi1?style=social)
+![GitHub stars](https://img.shields.io/github/stars/arjunsubedi1?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/arjunsubedi1?style=flat-square)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-arjunsubedi1-blue?style=flat-square&logo=linkedin)
 
 ## 👨‍💻 About Me
-Hi, I'm **Your Name** 👋, a passionate developer with expertise in JavaScript, Node.js, React, and AWS. I love building scalable applications and exploring new technologies. My goal is to create impactful solutions while continuously learning and growing in the tech world.
+Hey there! I'm **Arjun Subedi** 👋, a **Full Stack Developer** with **4+ years** of experience in building scalable web applications. Passionate about solving complex problems, optimizing performance, and continuously learning to improve my craft.
 
-### 📫 Contact Me
-- **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
-- **Twitter**: [twitter.com/yourhandle](https://twitter.com/yourhandle)
+I have a proven track record in delivering impactful projects such as **2Pangra (e-commerce), EZmanage (CRM), ARS CRM (real estate), Bahah (CMS), Special Protection Group (video streaming), Double Guard (CMS & Garmin API), You Choose Pet (payment systems), and OneWardrobe (Google Merchant integration).**
 
-## 🌟 Features
-✅ Feature 1 - Describe it here  
-✅ Feature 2 - Another great thing  
-✅ Feature 3 - Something unique  
-✅ Feature 4 - More awesomeness
+## 📫 Connect with Me
+- **Email**: [arjunsubedi360@gmail.com](mailto:arjunsubedi360@gmail.com)
+- **Phone**: +977 9862972729
+- **LinkedIn**: [linkedin.com/in/arjunsubedi1](https://linkedin.com/in/arjunsubedi1)
+- **GitHub**: [github.com/arjunsubedi1](https://github.com/arjunsubedi1)
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frameworks & Libraries
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### Databases & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## 📂 Folder Structure
-```bash
-├── src/              # Source code
-│   ├── components/   # UI Components
-│   ├── pages/        # Page components
-│   ├── services/     # API calls & services
-│   ├── utils/        # Utility functions
-├── public/           # Static files
-├── README.md         # Project documentation
-├── package.json      # Dependencies & scripts
-```
+### Deployment & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-007EC6?style=for-the-badge&logo=gitlab&logoColor=white)
 
-## 🚀 Installation
+## 🚀 Work Experience
 
-```bash
-git clone https://github.com/yourusername/reponame.git
-cd reponame
-npm install
-npm start
-```
+### Software Developer | EBpearls Pvt. Ltd. _(Nov 2023 - Present)_
+- Developed and deployed scalable applications with real-time features.
+- **Special Protection Group**: Implemented live video streaming, real-time location sharing, and emergency response.
+- **Double Guard**: Integrated Garmin API for real-time health tracking.
+- **Bahah**: Built a CMS for managing services, stylists, and transactions.
+- **You Choose Pet**: Integrated payment gateways for seamless transactions.
+- **OneWardrobe**: Implemented Google Merchant Center integration for e-commerce products.
 
-## 📖 Usage
-Explain how to use your project. Add images or GIFs for better clarity.
+### Software Developer | Varosa Technology Pvt. Ltd. _(Nov 2022 - Present)_
+- Developed a **wallet system** for secure transactions.
+- Built a **VOIP system (Calilio)** with AWS Cognito for authentication.
 
-## 🎯 Roadmap
-- [x] Feature 1
-- [ ] Feature 2 (In Progress)
-- [ ] Future Enhancements
+### Software Developer | Tukilogic Pvt. Ltd. _(Jun 2021 - Nov 2022)_
+- Built an **e-commerce platform (2 Pangra)** with order tracking.
+- Developed **EzManage CRM**, improving marketing campaign efficiency.
 
-## 📸 Screenshots
-![Screenshot](https://via.placeholder.com/800x400)
+## 🎓 Education
+- **Bachelor’s Degree in B.Ed. ICT** | Sanothimi Campus (TU), 2018
 
-## 🤝 Contributing
-Contributions are welcome! Please follow these steps:
-1. Fork the repo
-2. Create a new branch (`feature-xyz`)
-3. Commit your changes
-4. Push to your fork & submit a PR
+## 🏆 Certifications
+- **Full Stack Web Development with Node.js, React, and MongoDB** (Udemy)
 
-## 📜 License
-This project is licensed under the [MIT License](LICENSE).
+## 📖 Contributions & Teaching
+- **MERN Stack Instructor** | N9 Solutions _(6 months)_
+- **YouTube Channel: Coding Labz** | 16+ tutorial videos on JavaScript, Express.js, and React (1,000+ learners)
 
-## 🔗 Links
-- **Live Demo**: [yourwebsite.com](https://yourwebsite.com)
-- **Documentation**: [docs link](https://docs.yourwebsite.com)
-- **Issue Tracker**: [GitHub Issues](https://github.com/yourusername/reponame/issues)
+## 📜 Fun Fact
+I love working on **open-source projects**, mentoring aspiring developers, and always exploring the latest tech trends!
 
 ---
 
-⭐ **If you like this project, don't forget to give it a star!** ⭐
+⭐ **If you like my work, consider giving my repositories a star!** ⭐
